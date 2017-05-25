@@ -19,6 +19,11 @@ a:visited {
   margin: 0.6em;
 }
 
+.medium-print {
+  font-size: 1.2em;
+  margin: 0.6em;
+}
+
 .post-meta {
   font-size: 90%;
 }
