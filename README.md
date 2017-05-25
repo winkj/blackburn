@@ -83,6 +83,7 @@ paginate = 10
   # Shown in the home page
   subtitle = "A Hugo Theme"
   brand = "Blackburn"
+  brand = "A demo blog"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
   # CSS name for highlight.js
